@@ -47,5 +47,12 @@ Commit 歷程：
 ### 7. 回到學校 pull 同步（p.110–114）
 ![](作業截圖/08_回到學校pull同步.png)
 
-### 8. GitHub Profile（p.67–76）
+### 8. 檢視遠端儲存庫最終狀態（p.93–94、p.109）
+![](作業截圖/09a_GitHub_最終repo頁面.jpg)
+![](作業截圖/09b_GitHub_最終commit歷程.jpg)
+![](作業截圖/09c_GitHub_I_love_git的diff.jpg)
+
+### 9. GitHub Profile（p.67–76）
 個人頁面：<https://github.com/chrisyang-c>
+
+![](作業截圖/10_GitHub_Profile作業集首頁.jpg)
